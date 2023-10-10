@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "424195785053",
+    "project_id": "group-work-management",
+    "storage_bucket": "group-work-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424195785053:android:0c3564105155c8280128b4",
+        "android_client_info": {
+          "package_name": "com.example.collabApp.collab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424195785053-8huoo383775l4l0l50cbo4qbshf8jot5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.collabApp.collab",
+            "certificate_hash": "9ee5ed9751e04fcbfaa556e2501bc533d4afb07a"
+          }
+        },
+        {
+          "client_id": "424195785053-sefgra2db55kjaoc8jivjsv1hqvmqmsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsrCE2ed-kERGbDZBdZC7v1mK7yQ6A5Y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424195785053-4a9tmih1hqt8sprbf2j1t40le5qvn08n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
